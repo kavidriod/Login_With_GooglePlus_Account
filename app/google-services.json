@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132703559642",
+    "project_id": "project--2834676177608306205"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132703559642:android:0d7de4d49f4c4331",
+        "android_client_info": {
+          "package_name": "com.example.kavitha.login_with_googleplus_account"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132703559642-hi06osi9243i7ge99lirds5kri39parp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kavitha.login_with_googleplus_account",
+            "certificate_hash": "36c5ec799421c65cfc2178041ece59197d9f6b49"
+          }
+        },
+        {
+          "client_id": "132703559642-tcvvq54bcl7rjf7fkojfg76pj3csp2f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6Vn_iOQ9LIWiWVfm4ANy8xUIGeRR54w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
